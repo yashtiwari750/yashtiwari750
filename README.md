@@ -32,7 +32,7 @@
 **Entrepreneurial Action Planner** – A full-stack planner for aspiring entrepreneurs.  
 - **Stack:** React, Firebase, Firestore, Replit  
 - **Highlights:** Real-time database, secure auth, hosted on Firebase.  
-![Project Demo](https://via.placeholder.com/800x400.png?text=Add+Project+Screenshot)
+![Project Demo](assets/demo.png)
 
 ### [🤖 AI-Powered Sentiment Analyzer](https://github.com/yashtiwari750/Sentiment-Analyzer)
 **ML model for sentiment classification.**  
@@ -51,7 +51,7 @@
 
 ## 🌱 Contribution Activity
 <p align="center">
-  <img src="https://github.com/yashtiwari750/yashtiwari750/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/yashtiwari750/yashtiwari750/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
